@@ -1,14 +1,23 @@
-<img src="https://user-images.githubusercontent.com/36847593/99474380-cfe6be80-298f-11eb-8ffd-d491d42fb14a.jpg" width="150px">
-
-### 안녕하세요. Front-End Developer 정진호입니다. [Resume](https://mata0406.github.io/resume/).
-
-- E-mail: jinho_46@naver.com
-- Velog: https://velog.io/@wlsgh46
-- Rocketpunch: https://rocketpunch.com/@jjiinnhhoo46
-
-<h3 align="center">Stack 🚀</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/36847593/99474380-cfe6be80-298f-11eb-8ffd-d491d42fb14a.jpg" width="150px">
+</div>
 
 <div align="center">
+  ### 안녕하세요. Front-End Developer 정진호입니다. [Resume](https://mata0406.github.io/resume/).
+  
+  - E-mail: jinho_46@naver.com
+  - Velog: https://velog.io/@wlsgh46
+  - Rocketpunch: https://rocketpunch.com/@jjiinnhhoo46
+</div>
+
+
+
+
+
+
+<div align="center">
+  <h3 align="center">Stack 🚀</h3>
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
