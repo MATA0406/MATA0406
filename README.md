@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"/>&nbsp
 <!--   <img src="https://img.shields.io/badge/Redux-Saga-593D88?style=flat-square&logo=redux&logoColor=white"/>&nbsp -->
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/styled-components.js-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"/>
 </div>
 
