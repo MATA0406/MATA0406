@@ -1,10 +1,5 @@
-### 안녕하세요. Front-End Developer 정진호입니다. [Resume](https://mata0406.github.io/resume/).
-
-<h3 align="start">Profile &#x1F385 </h3>
-
-- E-mail: jinho_46@naver.com
-- Velog: https://velog.io/@wlsgh46
-- Rocketpunch: https://rocketpunch.com/@jjiinnhhoo46
+### 안녕하세요. Front-End Developer 정진호입니다.
+[Resume](https://mata0406.github.io/resume/).
 
 <h3 align="center">Stack 🚀</h3>
 
@@ -31,6 +26,12 @@
 </div>
 
 <br>
+
+<h3 align="start">Profile &#x1F385 </h3>
+
+- E-mail: jinho_46@naver.com
+- Velog: https://velog.io/@wlsgh46
+- Rocketpunch: https://rocketpunch.com/@jjiinnhhoo46
 
 <!-- Here are some ideas to get you started:
 
