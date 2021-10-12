@@ -4,10 +4,6 @@
 - Velog: https://velog.io/@wlsgh46
 - Rocketpunch: https://rocketpunch.com/@jjiinnhhoo46
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/36847593/99474380-cfe6be80-298f-11eb-8ffd-d491d42fb14a.jpg" width="150px">
-</div>
-
 <h3 align="center">Stack 🚀</h3>
 
 <div align="center"> 
