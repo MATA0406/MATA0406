@@ -1,5 +1,5 @@
-### 안녕하세요. Front-End Developer 정진호입니다.
-[Resume](https://mata0406.github.io/resume/).
+### 안녕하세요. Front-End Developer 정진호입니다. [Resume](https://mata0406.github.io/resume/).
+
 
 <h3 align="center">Stack 🚀</h3>
 
